@@ -24,3 +24,5 @@ With his findings in hand, John presented his report to the corporation's manage
 ![image6](https://github.com/visionthex/A-Tale-of-ICS-Security-and-Binary-Jokes/blob/main/Images/image6.png "DALL-E - Malware Anlayist Talking to Management")
 
 And so, the story of John and the Encabulator teaches us that even in the high-stakes world of ICS security, sometimes a good sense of humor can go a long way. And, of course, the importance of utilizing advanced tools like the Encabulator to protect our critical systems.
+
+<button onclick="alert('Hello, Malware!')">Click me</button>
