@@ -1,7 +1,7 @@
 ![image1](https://github.com/visionthex/A-Tale-of-ICS-Security-and-Binary-Jokes/blob/main/Images/image1.png "DALL-E - Malware in ICS")
 
 # The Jocund Analyst and the Labyrinthine Encabulator: A Tale of ICS Security and Binary Jokes
-[ChatGPT](https://chat.openai.com/) | [Dall-E](https://openai.com/dall-e-2)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-3498db?style=flat-square&logo=chatbot&logoColor=white)](https://chat.openai.com/) | [![DALL-E](https://img.shields.io/badge/DALL--E-9b59b6?style=flat-square&logo=artstation&logoColor=white)](https://openai.com/dall-e-2)
 
 Once upon a time, there was a jocund malware analyst named John. He was tasked with analyzing a fiendish piece of malicious software that had sneaked into the industrial control systems (ICS) of a befuddled corporation. John was a virtuoso of his craft, and he had heard of the Encabulator, a labyrinthine machine that could aid him in his analysis.
 
